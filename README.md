@@ -2,6 +2,7 @@
 
 设置使用v2free代理
 
+
 start "" "%~dp0v2free\v2free.exe"  -config v2free\v2free.json
 
 设置sockets5代理
