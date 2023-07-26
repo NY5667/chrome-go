@@ -1,4 +1,6 @@
-# v2go
+# chrome-go
+
+# v2free
 
 设置使用v2free代理
 
@@ -35,6 +37,12 @@ netsh winhttp import proxy source=ie
 ```
 netsh winhttp show proxy
 ```
+
+# v2ray
+
+linux安装v2ray软件
+
+[https://www.linuxbabe.com/ubuntu/set-up-v2ray-proxy-server](https://www.linuxbabe.com/ubuntu/set-up-v2ray-proxy-server)
 
 # 该项目参照相关资源
 

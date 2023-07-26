@@ -33,3 +33,7 @@ build/
 .vscode/
 
 chrome-user-data/
+v2free/v2free.json
+v2free/v2free.json_backup
+v2ray/guiNConfig.json
+v2ray/guiNConfig.json_backup
